@@ -1,0 +1,1336 @@
+Uri: https://c0.wp.com/c/6.5.2/wp-includes/css/buttons.min.css
+File Name: C:\Downloaded Web Sites\kanavdawra.com\c\6.5.2\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/c/6.5.2/wp-includes/css/dist/block-library/style.min.css
+File Name: C:\Downloaded Web Sites\kanavdawra.com\c\6.5.2\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/c/6.5.2/wp-includes/js/imagesloaded.min.js
+File Name: C:\Downloaded Web Sites\kanavdawra.com\c\6.5.2\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.5.2/wp-includes/js/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\kanavdawra.com\c\6.5.2\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.5.2/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\kanavdawra.com\c\6.5.2\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.5.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+File Name: C:\Downloaded Web Sites\kanavdawra.com\c\6.5.2\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/c/6.5.2/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\c\6.5.2\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://c0.wp.com/c/6.5.2/wp-includes/js/mediaelement/wp-mediaelement.min.css
+File Name: C:\Downloaded Web Sites\kanavdawra.com\c\6.5.2\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/jetpack/10.7.1/css/jetpack.css
+File Name: C:\Downloaded Web Sites\kanavdawra.com\p\jetpack\10.7.1\css\jetpack.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/jetpack/10.7.1/modules/shortcodes/images/collapse.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\p\jetpack\10.7.1\modules\shortcodes\images\collapse.png
+Content Type: image/png
+
+Uri: https://c0.wp.com/p/jetpack/10.7.1/modules/shortcodes/images/expand.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\p\jetpack\10.7.1\modules\shortcodes\images\expand.png
+Content Type: image/png
+
+Uri: https://c0.wp.com/p/jetpack/10.7.1/modules/shortcodes/images/slide-nav.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\p\jetpack\10.7.1\modules\shortcodes\images\slide-nav.png
+Content Type: image/png
+
+Uri: https://c0.wp.com/p/jetpack/10.7.1/modules/shortcodes/img/slideshow-controls-2x.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\p\jetpack\10.7.1\modules\shortcodes\img\slideshow-controls-2x.png
+Content Type: image/png
+
+Uri: https://c0.wp.com/p/jetpack/10.7.1/modules/shortcodes/img/slideshow-controls.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\p\jetpack\10.7.1\modules\shortcodes\img\slideshow-controls.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css
+File Name: C:\Downloaded Web Sites\kanavdawra.com\gh\devicons\devicon@v2.14.0\devicon.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/fonts/devicon.eot?rgb6be
+File Name: C:\Downloaded Web Sites\kanavdawra.com\gh\devicons\devicon@v2.14.0\fonts\devicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/fonts/devicon.svg?rgb6be
+File Name: C:\Downloaded Web Sites\kanavdawra.com\gh\devicons\devicon@v2.14.0\fonts\devicon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/fonts/devicon.ttf?rgb6be
+File Name: C:\Downloaded Web Sites\kanavdawra.com\gh\devicons\devicon@v2.14.0\fonts\devicon.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/fonts/devicon.woff?rgb6be
+File Name: C:\Downloaded Web Sites\kanavdawra.com\gh\devicons\devicon@v2.14.0\fonts\devicon.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css?family=Roboto
+File Name: C:\Downloaded Web Sites\kanavdawra.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300,400,500,700
+File Name: C:\Downloaded Web Sites\kanavdawra.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\kanavdawra.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\kanavdawra.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\kanavdawra.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\kanavdawra.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://i.stack.imgur.com/MEB9F.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\MEB9F.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/blog/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/blog/a-gentle-explanation-to-image-segmentation-unet/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\blog\a-gentle-explanation-to-image-segmentation-unet\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/blog/a-gentle-explanation-to-image-segmentation-unet/feed/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\blog\a-gentle-explanation-to-image-segmentation-unet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://kanavdawra.com/blog/a-robust-explanation-of-handwriting-recognition-crnn/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\blog\a-robust-explanation-of-handwriting-recognition-crnn\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/blog/a-robust-explanation-of-handwriting-recognition-crnn/feed/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\blog\a-robust-explanation-of-handwriting-recognition-crnn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://kanavdawra.com/blog/i-deployed-my-ml-app-in-a-few-easy-steps-and-you-can-do-it-too/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\blog\i-deployed-my-ml-app-in-a-few-easy-steps-and-you-can-do-it-too\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/blog/i-deployed-my-ml-app-in-a-few-easy-steps-and-you-can-do-it-too/feed/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\blog\i-deployed-my-ml-app-in-a-few-easy-steps-and-you-can-do-it-too\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://kanavdawra.com/blog/learn-machine-learning-in-90-days-no-clickbait/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\blog\learn-machine-learning-in-90-days-no-clickbait\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/blog/learn-machine-learning-in-90-days-no-clickbait/feed/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\blog\learn-machine-learning-in-90-days-no-clickbait\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://kanavdawra.com/contact/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/portfolio/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\portfolio\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/portfolio/hrecognizer/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\portfolio\hrecognizer\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/portfolio/hrecognizer/feed/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\portfolio\hrecognizer\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://kanavdawra.com/portfolio/sales-insights/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\portfolio\sales-insights\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/portfolio/sales-insights/feed/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\portfolio\sales-insights\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://kanavdawra.com/portfolio/yahoo-finance-company-insights/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\portfolio\yahoo-finance-company-insights\index.htm
+Content Type: text/html
+
+Uri: https://kanavdawra.com/portfolio/yahoo-finance-company-insights/feed/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\portfolio\yahoo-finance-company-insights\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://kanavdawra.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=6.1.2
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\complianz-gdpr\assets\css\cookieblocker.min.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/plugins/enlighter/cache/enlighterjs.min.css?ver=Myg6bw1p0jMsp2i
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\enlighter\cache\enlighterjs.min.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/plugins/enlighter/cache/enlighterjs.min.js?ver=Myg6bw1p0jMsp2i
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\enlighter\cache\enlighterjs.min.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/css/forminator-icons.min.css?ver=1.15.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\css\forminator-icons.min.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/css/src/form/forminator-form-material.base.min.css?ver=1.15.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\css\src\form\forminator-form-material.base.min.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/css/src/forminator-utilities.min.css?ver=1.15.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\css\src\forminator-utilities.min.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/css/src/grid/forminator-grid.open.min.css?ver=1.15.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\css\src\grid\forminator-grid.open.min.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.eot?1.7.4
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.svg?1.7.4
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.svg
+Content Type: image/svg+xml
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.ttf?1.7.4
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.ttf
+Content Type: font/ttf
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff2?1.7.4
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.woff2
+Content Type: font/woff2
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/fonts/forminator-icons-font.woff?1.7.4
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\fonts\forminator-icons-font.woff
+Content Type: font/woff
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/forminator-ui/js/forminator-form.min.js?ver=1.15.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\forminator-ui\js\forminator-form.min.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/assets/js/library/jquery.validate.min.js?ver=1.15.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\assets\js\library\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/plugins/forminator/build/front/front.multi.min.js?ver=1.15.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\forminator\build\front\front.multi.min.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/plugins/jetpack-boost/vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false&ver=ba2aa80003251440130b63de19cb609d
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\jetpack-boost\vendor\automattic\jetpack-lazy-images\dist\intersection-observer.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/plugins/jetpack-boost/vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&ver=ae8c0bea6a07ab76470a02053fc74216
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\jetpack-boost\vendor\automattic\jetpack-lazy-images\dist\lazy-images.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo.min.css?ver=6.5.2
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\css\wpdiscuz-combo.min.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/img/delete.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\img\delete.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/img/file-icons/delete.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\img\file-icons\delete.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/img/loading.gif
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\img\loading.gif
+Content Type: image/gif
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-combo.min.js?ver=7.3.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\js\wpdiscuz-combo.min.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/border.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\border.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/controls.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\controls.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/loading.gif
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\loading.gif
+Content Type: image/gif
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/loading_background.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\loading_background.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/colorbox/images/overlay.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\colorbox\images\overlay.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/css/fa.min.css?ver=7.3.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\css\fa.min.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\assets\third-party\font-awesome-5.13.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot?
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.svg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.ttf
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.woff
+Content Type: font/woff
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff2
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\themes\default\css\fonts\sqr721c-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://kanavdawra.com/wp-content/plugins/wpdiscuz/themes/default/style.css?ver=7.3.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\plugins\wpdiscuz\themes\default\style.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/css/theme-9.css?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\css\theme-9.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/fontawesome/js/all.js?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\fontawesome\js\all.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/js/dark-mode.js?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\js\dark-mode.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/js/isotope-custom.js?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\js\isotope-custom.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/js/testimonials.js?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\js\testimonials.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/plugins/bootstrap/js/bootstrap.min.js?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\plugins\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/plugins/isotope.pkgd.min.js?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\plugins\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/plugins/js-cookie.min.js?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\plugins\js-cookie.min.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/plugins/popper.min.js?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\plugins\popper.min.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/plugins/tiny-slider/min/tiny-slider.js?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\plugins\tiny-slider\min\tiny-slider.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/themes/devcard-bs5/assets/plugins/tiny-slider/tiny-slider.css?ver=1
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\themes\devcard-bs5\assets\plugins\tiny-slider\tiny-slider.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/1_thumbnail-800x450.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\1_thumbnail-800x450.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/aspect_maintained_image-300x70.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\aspect_maintained_image-300x70.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/aspect_maintained_image.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\aspect_maintained_image.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/CNN_Architecture-1024x548.jpeg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\CNN_Architecture-1024x548.jpeg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/CNN_Architecture-1536x822.jpeg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\CNN_Architecture-1536x822.jpeg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/CNN_Architecture-300x161.jpeg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\CNN_Architecture-300x161.jpeg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/CNN_Architecture-768x411.jpeg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\CNN_Architecture-768x411.jpeg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/CNN_Architecture-800x428.jpeg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\CNN_Architecture-800x428.jpeg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/CNN_Architecture.jpeg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\CNN_Architecture.jpeg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/CoverPhoto-800x450.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\CoverPhoto-800x450.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/cropped-Logo-noBG-180x180.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\cropped-Logo-noBG-180x180.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/cropped-Logo-noBG-192x192.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\cropped-Logo-noBG-192x192.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/cropped-Logo-noBG-32x32.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\cropped-Logo-noBG-32x32.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/cropped-Logo-noBG.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\cropped-Logo-noBG.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/distorted_img-300x81.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\distorted_img-300x81.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/distorted_img.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\distorted_img.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/flattend_matrix-300x23.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\flattend_matrix-300x23.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/flattend_matrix-768x60.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\flattend_matrix-768x60.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/flattend_matrix-800x62.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\flattend_matrix-800x62.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/flattend_matrix.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\flattend_matrix.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/HeadShot.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\HeadShot.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/matrix_to_image-1024x327.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\matrix_to_image-1024x327.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/matrix_to_image-300x96.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\matrix_to_image-300x96.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/matrix_to_image-768x245.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\matrix_to_image-768x245.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/matrix_to_image-800x255.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\matrix_to_image-800x255.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/matrix_to_image.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\matrix_to_image.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model-167x210.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model-167x210.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model-238x300.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model-238x300.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model-444x560.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model-444x560.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model-768x968.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model-768x968.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model-812x1024.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model-812x1024.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_prediction-1024x507.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_prediction-1024x507.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_prediction-300x149.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_prediction-300x149.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_prediction-768x380.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_prediction-768x380.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_prediction-800x396.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_prediction-800x396.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_prediction.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_prediction.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_training-1024x368.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_training-1024x368.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_training-300x108.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_training-300x108.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_training-768x276.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_training-768x276.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_training-800x287.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_training-800x287.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/11/model_training.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\11\model_training.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/1p-thumbnail-jpg-375x500.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\1p-thumbnail-jpg-375x500.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/1_convolution_operation-1024x341.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\1_convolution_operation-1024x341.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/1_convolution_operation-300x100.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\1_convolution_operation-300x100.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/1_convolution_operation-768x256.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\1_convolution_operation-768x256.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/1_convolution_operation-800x266.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\1_convolution_operation-800x266.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/1_convolution_operation.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\1_convolution_operation.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/1_max_pooling-300x118.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\1_max_pooling-300x118.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/1_max_pooling.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\1_max_pooling.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_data_image-140x210.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_data_image-140x210.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_data_image-200x300.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_data_image-200x300.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_data_image-373x560.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_data_image-373x560.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_data_image.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_data_image.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_data_mask-140x210.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_data_mask-140x210.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_data_mask-200x300.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_data_mask-200x300.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_data_mask-373x560.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_data_mask-373x560.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_data_mask.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_data_mask.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_model_training-1024x260.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_model_training-1024x260.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_model_training-300x76.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_model_training-300x76.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_model_training-768x195.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_model_training-768x195.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_model_training-800x203.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_model_training-800x203.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_model_training.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_model_training.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_prediction-213x210.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_prediction-213x210.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_prediction-300x296.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_prediction-300x296.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_prediction-568x560.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_prediction-568x560.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_prediction-768x757.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_prediction-768x757.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_prediction.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_prediction.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_sanity_check-221x210.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_sanity_check-221x210.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_sanity_check-300x285.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_sanity_check-300x285.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_sanity_check-590x560.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_sanity_check-590x560.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_sanity_check-768x729.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_sanity_check-768x729.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_sanity_check.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_sanity_check.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_semantic_instance_comparisan-1024x306.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_semantic_instance_comparisan-1024x306.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_semantic_instance_comparisan-300x90.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_semantic_instance_comparisan-300x90.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_semantic_instance_comparisan-768x230.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_semantic_instance_comparisan-768x230.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_semantic_instance_comparisan-800x239.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_semantic_instance_comparisan-800x239.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_semantic_instance_comparisan.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_semantic_instance_comparisan.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_thumbnail-800x450.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_thumbnail-800x450.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_u-net-architecture-1024x682.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_u-net-architecture-1024x682.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_u-net-architecture-1536x1023.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_u-net-architecture-1536x1023.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_u-net-architecture-300x200.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_u-net-architecture-300x200.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_u-net-architecture-768x512.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_u-net-architecture-768x512.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_u-net-architecture-800x533.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_u-net-architecture-800x533.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/2_u-net-architecture.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\2_u-net-architecture.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/TEST_0046.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\TEST_0046.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/TEST_0056.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\TEST_0056.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/TEST_0142.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\TEST_0142.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/TEST_0158-300x41.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\TEST_0158-300x41.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/TEST_0158.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\TEST_0158.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/TEST_0232-300x41.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\TEST_0232-300x41.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2021/12/TEST_0232.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2021\12\TEST_0232.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_1-1024x466.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_1-1024x466.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_1-1536x699.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_1-1536x699.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_1-300x137.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_1-300x137.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_1-768x350.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_1-768x350.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_1-800x364.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_1-800x364.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_1.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_1.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_2-1024x476.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_2-1024x476.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_2-1536x714.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_2-1536x714.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_2-300x139.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_2-300x139.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_2-768x357.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_2-768x357.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_2-800x372.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_2-800x372.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_2.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_2.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_3-1024x468.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_3-1024x468.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_3-1536x702.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_3-1536x702.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_3-300x137.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_3-300x137.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_3-768x351.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_3-768x351.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_3-800x365.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_3-800x365.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_3.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_3.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_4-1024x471.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_4-1024x471.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_4-1536x707.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_4-1536x707.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_4-300x138.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_4-300x138.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_4-768x354.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_4-768x354.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_4-800x368.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_4-800x368.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_function_4.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_function_4.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_1-1024x470.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_1-1024x470.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_1-1536x706.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_1-1536x706.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_1-300x138.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_1-300x138.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_1-768x353.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_1-768x353.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_1-800x368.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_1-800x368.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_1.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_1.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_2-1024x472.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_2-1024x472.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_2-1536x708.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_2-1536x708.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_2-300x138.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_2-300x138.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_2-768x354.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_2-768x354.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_2-800x369.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_2-800x369.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_2.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_2.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_3-1024x470.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_3-1024x470.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_3-1536x705.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_3-1536x705.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_3-300x138.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_3-300x138.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_3-768x352.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_3-768x352.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_3-800x367.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_3-800x367.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_3.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_3.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_4-1024x471.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_4-1024x471.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_4-1536x706.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_4-1536x706.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_4-300x138.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_4-300x138.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_4-768x353.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_4-768x353.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_4-800x368.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_4-800x368.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_4.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_4.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_5-1024x471.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_5-1024x471.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_5-1536x706.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_5-1536x706.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_5-300x138.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_5-300x138.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_5-768x353.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_5-768x353.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_5-800x368.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_5-800x368.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_cloud_storage_5.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_cloud_storage_5.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_1-1024x471.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_1-1024x471.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_1-1536x707.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_1-1536x707.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_1-300x138.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_1-300x138.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_1-768x354.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_1-768x354.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_1-800x368.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_1-800x368.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_1.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_1.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_2-1024x476.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_2-1024x476.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_2-1536x714.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_2-1536x714.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_2-300x139.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_2-300x139.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_2-768x357.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_2-768x357.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_2-800x372.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_2-800x372.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_2.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_2.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_3-1024x471.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_3-1024x471.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_3-1536x707.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_3-1536x707.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_3-300x138.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_3-300x138.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_3-768x354.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_3-768x354.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_3-800x368.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_3-800x368.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_create_project_3.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_create_project_3.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/01/3_thumbnail-800x337.jpg
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\01\3_thumbnail-800x337.jpg
+Content Type: image/jpeg
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/03/4_cover-300x167.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\03\4_cover-300x167.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/03/4_cover-768x429.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\03\4_cover-768x429.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/03/4_cover-800x447.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\03\4_cover-800x447.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2022/03/4_cover.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2022\03\4_cover.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2023/01/2p-thumbnail-375x500.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2023\01\2p-thumbnail-375x500.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2023/01/3p-thumbnail-375x500.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2023\01\3p-thumbnail-375x500.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/2023/01/power-bi-375x500.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\2023\01\power-bi-375x500.png
+Content Type: image/png
+
+Uri: https://kanavdawra.com/wp-content/uploads/forminator/css/style-176.css?ver=1636942038
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\forminator\css\style-176.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-content/uploads/wp-coder/script-1.js?ver=1642120287
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\wp-coder\script-1.js
+Content Type: application/javascript
+
+Uri: https://kanavdawra.com/wp-content/uploads/wp-coder/style-1.css?ver=1642120287
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-content\uploads\wp-coder\style-1.css
+Content Type: text/css
+
+Uri: https://kanavdawra.com/wp-json/
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2Fa-gentle-explanation-to-image-segmentation-unet%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2Fa-gentle-explanation-to-image-segmentation-unet%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2Fa-robust-explanation-of-handwriting-recognition-crnn%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2Fa-robust-explanation-of-handwriting-recognition-crnn%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2Fi-deployed-my-ml-app-in-a-few-easy-steps-and-you-can-do-it-too%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2Fi-deployed-my-ml-app-in-a-few-easy-steps-and-you-can-do-it-too%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2Flearn-machine-learning-in-90-days-no-clickbait%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fblog%2Flearn-machine-learning-in-90-days-no-clickbait%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fportfolio%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fportfolio%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fportfolio%2Fhrecognizer%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fportfolio%2Fhrecognizer%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fportfolio%2Fsales-insights%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fportfolio%2Fsales-insights%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fportfolio%2Fyahoo-finance-company-insights%2F
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fkanavdawra.com%2Fportfolio%2Fyahoo-finance-company-insights%2F&format=xml
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/pages/153
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\pages\153
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/pages/155
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\pages\155
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/pages/157
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\pages\157
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/pages/159
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\pages\159
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/posts/219
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\posts\219
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/posts/254
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\posts\254
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/posts/289
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\posts\289
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/posts/359
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\posts\359
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/posts/387
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\posts\387
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/posts/407
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\posts\407
+Content Type: application/json
+
+Uri: https://kanavdawra.com/wp-json/wp/v2/posts/424
+File Name: C:\Downloaded Web Sites\kanavdawra.com\wp-json\wp\v2\posts\424
+Content Type: application/json
+
+Uri: https://kanavdawra.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\kanavdawra.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\kanavdawra.com\font-awesome\4.5.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\kanavdawra.com\font-awesome\4.5.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\kanavdawra.com\font-awesome\4.5.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\kanavdawra.com\font-awesome\4.5.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\kanavdawra.com\font-awesome\4.5.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\kanavdawra.com\font-awesome\4.5.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\kanavdawra.com\font-awesome\4.5.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://secure.gravatar.com/avatar/59b9d0b0c92f3b5ebf67bb755b61b0c5?s=128&d=mm&r=g
+File Name: C:\Downloaded Web Sites\kanavdawra.com\avatar\59b9d0b0c92f3b5ebf67bb755b61b0c5-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/59b9d0b0c92f3b5ebf67bb755b61b0c5?s=64&d=mm&r=g
+File Name: C:\Downloaded Web Sites\kanavdawra.com\avatar\59b9d0b0c92f3b5ebf67bb755b61b0c5.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/?s=112&d=mm&r=g
+File Name: C:\Downloaded Web Sites\kanavdawra.com\avatar\none-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/?s=56&d=mm&r=g
+File Name: C:\Downloaded Web Sites\kanavdawra.com\avatar\none.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite-2x.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\images\grav-share-sprite-2x.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite.png
+File Name: C:\Downloaded Web Sites\kanavdawra.com\images\grav-share-sprite.png
+Content Type: image/png
+
+Uri: https://stats.wp.com/e-202417.js
+File Name: C:\Downloaded Web Sites\kanavdawra.com\e-202417.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?hl=en_US&onload=forminator_render_captcha&render=explicit&ver=1.15.12
+File Name: C:\Downloaded Web Sites\kanavdawra.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.ripublication.com/ijaer18/ijaerv13n2_44.pdf
+File Name: C:\Downloaded Web Sites\kanavdawra.com\ijaer18\ijaerv13n2_44.pdf
+Content Type: application/pdf
+
